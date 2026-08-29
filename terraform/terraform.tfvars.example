@@ -1,0 +1,4 @@
+cluster_name    = "devops-aula"
+node_count      = 1
+app_image       = "task-manager:local"
+kubeconfig_path = "./kubeconfig"
